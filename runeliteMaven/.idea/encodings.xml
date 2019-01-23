@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/../runelite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/cache-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/cache-updater" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/http-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/http-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/protocol" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/protocol-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/runelite-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/runelite-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/runelite-mixins" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/runelite-script-assembler-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../runelite/runescape-api" charset="UTF-8" />
+  </component>
+</project>
